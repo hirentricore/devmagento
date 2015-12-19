@@ -1,0 +1,72 @@
+2015-12-19T09:28:31+00:00 ERR (3): Notice: Undefined index: httponly  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 90
+2015-12-19T09:28:31+00:00 ERR (3): Notice: Undefined index: secure  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 92
+2015-12-19T09:28:31+00:00 ERR (3): Notice: Undefined index: domain  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 94
+2015-12-19T09:28:31+00:00 ERR (3): Warning: session_set_cookie_params() expects at least 1 parameter, 0 given  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 104
+2015-12-19T09:28:40+00:00 ERR (3): Notice: Undefined index: httponly  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 90
+2015-12-19T09:28:40+00:00 ERR (3): Notice: Undefined index: secure  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 92
+2015-12-19T09:28:40+00:00 ERR (3): Notice: Undefined index: domain  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 94
+2015-12-19T09:28:40+00:00 ERR (3): Warning: session_set_cookie_params() expects at least 1 parameter, 0 given  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 104
+2015-12-19T09:28:41+00:00 ERR (3): Notice: Undefined index: httponly  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 90
+2015-12-19T09:28:41+00:00 ERR (3): Notice: Undefined index: secure  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 92
+2015-12-19T09:28:41+00:00 ERR (3): Notice: Undefined index: domain  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 94
+2015-12-19T09:28:41+00:00 ERR (3): Warning: session_set_cookie_params() expects at least 1 parameter, 0 given  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 104
+2015-12-19T09:28:45+00:00 ERR (3): Notice: Undefined index: httponly  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 90
+2015-12-19T09:28:45+00:00 ERR (3): Notice: Undefined index: secure  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 92
+2015-12-19T09:28:45+00:00 ERR (3): Notice: Undefined index: domain  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 94
+2015-12-19T09:28:45+00:00 ERR (3): Warning: session_set_cookie_params() expects at least 1 parameter, 0 given  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 104
+2015-12-19T09:28:51+00:00 ERR (3): Notice: Undefined index: httponly  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 90
+2015-12-19T09:28:51+00:00 ERR (3): Notice: Undefined index: secure  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 92
+2015-12-19T09:28:51+00:00 ERR (3): Notice: Undefined index: domain  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 94
+2015-12-19T09:28:51+00:00 ERR (3): Warning: session_set_cookie_params() expects at least 1 parameter, 0 given  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 104
+2015-12-19T09:28:55+00:00 ERR (3): Notice: Undefined index: httponly  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 90
+2015-12-19T09:28:55+00:00 ERR (3): Notice: Undefined index: secure  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 92
+2015-12-19T09:28:55+00:00 ERR (3): Notice: Undefined index: domain  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 94
+2015-12-19T09:28:55+00:00 ERR (3): Warning: session_set_cookie_params() expects at least 1 parameter, 0 given  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 104
+2015-12-19T09:28:57+00:00 ERR (3): Notice: Undefined index: httponly  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 90
+2015-12-19T09:28:57+00:00 ERR (3): Notice: Undefined index: secure  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 92
+2015-12-19T09:28:57+00:00 ERR (3): Notice: Undefined index: domain  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 94
+2015-12-19T09:28:57+00:00 ERR (3): Warning: session_set_cookie_params() expects at least 1 parameter, 0 given  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 104
+2015-12-19T09:29:00+00:00 ERR (3): Notice: Undefined index: httponly  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 90
+2015-12-19T09:29:00+00:00 ERR (3): Notice: Undefined index: secure  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 92
+2015-12-19T09:29:00+00:00 ERR (3): Notice: Undefined index: domain  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 94
+2015-12-19T09:29:00+00:00 ERR (3): Warning: session_set_cookie_params() expects at least 1 parameter, 0 given  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 104
+2015-12-19T09:29:21+00:00 ERR (3): Notice: Undefined index: httponly  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 90
+2015-12-19T09:29:21+00:00 ERR (3): Notice: Undefined index: secure  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 92
+2015-12-19T09:29:21+00:00 ERR (3): Notice: Undefined index: domain  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 94
+2015-12-19T09:29:21+00:00 ERR (3): Warning: session_set_cookie_params() expects at least 1 parameter, 0 given  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 104
+2015-12-19T09:29:25+00:00 ERR (3): Notice: Undefined index: httponly  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 90
+2015-12-19T09:29:25+00:00 ERR (3): Notice: Undefined index: secure  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 92
+2015-12-19T09:29:25+00:00 ERR (3): Notice: Undefined index: domain  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 94
+2015-12-19T09:29:25+00:00 ERR (3): Warning: session_set_cookie_params() expects at least 1 parameter, 0 given  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 104
+2015-12-19T09:29:35+00:00 ERR (3): Notice: Undefined index: httponly  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 90
+2015-12-19T09:29:35+00:00 ERR (3): Notice: Undefined index: secure  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 92
+2015-12-19T09:29:35+00:00 ERR (3): Notice: Undefined index: domain  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 94
+2015-12-19T09:29:35+00:00 ERR (3): Warning: session_set_cookie_params() expects at least 1 parameter, 0 given  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 104
+2015-12-19T09:29:38+00:00 ERR (3): Notice: Undefined index: httponly  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 90
+2015-12-19T09:29:38+00:00 ERR (3): Notice: Undefined index: secure  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 92
+2015-12-19T09:29:38+00:00 ERR (3): Notice: Undefined index: domain  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 94
+2015-12-19T09:29:38+00:00 ERR (3): Warning: session_set_cookie_params() expects at least 1 parameter, 0 given  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 104
+2015-12-19T09:29:41+00:00 ERR (3): Notice: Undefined index: httponly  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 90
+2015-12-19T09:29:41+00:00 ERR (3): Notice: Undefined index: secure  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 92
+2015-12-19T09:29:41+00:00 ERR (3): Notice: Undefined index: domain  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 94
+2015-12-19T09:29:41+00:00 ERR (3): Warning: session_set_cookie_params() expects at least 1 parameter, 0 given  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 104
+2015-12-19T09:30:23+00:00 ERR (3): Notice: Undefined index: httponly  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 90
+2015-12-19T09:30:23+00:00 ERR (3): Notice: Undefined index: secure  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 92
+2015-12-19T09:30:23+00:00 ERR (3): Notice: Undefined index: domain  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 94
+2015-12-19T09:30:23+00:00 ERR (3): Warning: session_set_cookie_params() expects at least 1 parameter, 0 given  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 104
+2015-12-19T09:30:37+00:00 ERR (3): Notice: Undefined index: httponly  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 90
+2015-12-19T09:30:37+00:00 ERR (3): Notice: Undefined index: secure  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 92
+2015-12-19T09:30:37+00:00 ERR (3): Notice: Undefined index: domain  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 94
+2015-12-19T09:30:37+00:00 ERR (3): Warning: session_set_cookie_params() expects at least 1 parameter, 0 given  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 104
+2015-12-19T09:30:44+00:00 ERR (3): Notice: Undefined index: httponly  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 90
+2015-12-19T09:30:44+00:00 ERR (3): Notice: Undefined index: secure  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 92
+2015-12-19T09:30:44+00:00 ERR (3): Notice: Undefined index: domain  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 94
+2015-12-19T09:30:44+00:00 ERR (3): Warning: session_set_cookie_params() expects at least 1 parameter, 0 given  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 104
+2015-12-19T09:30:44+00:00 ERR (3): Notice: Undefined index: httponly  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 90
+2015-12-19T09:30:44+00:00 ERR (3): Notice: Undefined index: secure  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 92
+2015-12-19T09:30:44+00:00 ERR (3): Notice: Undefined index: domain  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 94
+2015-12-19T09:30:44+00:00 ERR (3): Warning: session_set_cookie_params() expects at least 1 parameter, 0 given  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 104
+2015-12-19T09:30:55+00:00 ERR (3): Notice: Undefined index: httponly  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 90
+2015-12-19T09:30:55+00:00 ERR (3): Notice: Undefined index: secure  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 92
+2015-12-19T09:30:55+00:00 ERR (3): Notice: Undefined index: domain  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 94
+2015-12-19T09:30:55+00:00 ERR (3): Warning: session_set_cookie_params() expects at least 1 parameter, 0 given  in /opt/lampp/htdocs/hiren/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 104
